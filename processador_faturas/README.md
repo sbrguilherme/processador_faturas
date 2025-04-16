@@ -1,5 +1,5 @@
 
-# 📄 Processador de Faturas Claro
+# 📄 Processador de Faturas
 
 Este projeto tem como objetivo **processar automaticamente faturas da operadora Claro em formato PDF**, extraindo informações relevantes como número de telefone, plano contratado, consumo de serviços e valores faturados.
 
